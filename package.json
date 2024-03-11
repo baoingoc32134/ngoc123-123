@@ -1,14 +1,14 @@
 {
-    "name": "runner-haucn6",
+    "name": "baongoc2610",
     "version": "4.0.2",
     "description": "Simple task runner.",
     "author": {
-        "name": "Stanislav Kalashnik",
-        "email": "haucn6@gmail.com"
+        "name": "Sbaongoc26103",
+        "email": "baongoc261039@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Truonghau/runner-haucn6.git"
+        "url": "https://github.com/baoingoc32134/ngoc123-123.git"
     },
     "bin": {
         "runner": "./bin/cli.js"
